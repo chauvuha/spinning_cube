@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "D3D12HelloTriangle_Experiment", "D3D12HelloTriangle2.vcxproj", "{56FCFA78-55C0-49D9-888F-001C68435D20}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56FCFA78-55C0-49D9-888F-001C68435D20}.Debug|x64.ActiveCfg = Debug|x64
+		{56FCFA78-55C0-49D9-888F-001C68435D20}.Debug|x64.Build.0 = Debug|x64
+		{56FCFA78-55C0-49D9-888F-001C68435D20}.Release|x64.ActiveCfg = Release|x64
+		{56FCFA78-55C0-49D9-888F-001C68435D20}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4FA0F9F-093F-4567-AB1A-F0C216332FA5}
+	EndGlobalSection
+EndGlobal
