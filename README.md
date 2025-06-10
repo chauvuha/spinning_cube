@@ -1,5 +1,6 @@
 
 ## Experiments with D3D API
+(All code based on Microsoft's open source D3D12 Samples at https://github.com/chauvumsft/DirectX-Graphics-Samples)
 
 ### 1. Spinning cube, based on HelloTriangle sample
 
